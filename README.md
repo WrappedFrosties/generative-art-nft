@@ -1,4 +1,4 @@
-# Generative NFT Art
+# Cutie Pies Generative Script
 
 ## Introduction
 
